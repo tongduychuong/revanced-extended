@@ -1,6 +1,6 @@
 {
-  "version": "v19.44.39 (patches: 5.4.2)",
-  "versionCode": 129,
-  "zipUrl": "https://github.com/NoName-exe/revanced-extended/releases/download/129/youtube-revanced-extended-magisk-v19.44.39-all.zip",
+  "version": "v19.44.39 (patches: 5.5.1)",
+  "versionCode": 130,
+  "zipUrl": "https://github.com/NoName-exe/revanced-extended/releases/download/130/youtube-revanced-extended-magisk-v19.44.39-all.zip",
   "changelog": "https://raw.githubusercontent.com/NoName-exe/revanced-extended/update/build.md"
 }
