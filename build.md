@@ -1,4 +1,4 @@
-YouTube: 20.14.43  
+YouTube: 20.14.41  
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music.  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.  
@@ -6,5 +6,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store f
 [Main Repo](https://github.com/tongduychuong/revanced-extended)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.21.0-dev.9.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.21.0-dev.9)  
+Patches: ReVanced/patches-5.21.0-dev.10.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.21.0-dev.10)  
