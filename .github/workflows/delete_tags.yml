@@ -1,4 +1,4 @@
-name: Build Manual
+name: delete tags
 on:
   workflow_dispatch:
 
