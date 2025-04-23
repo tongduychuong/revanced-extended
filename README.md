@@ -25,6 +25,6 @@ Get the [latest CI release](https://github.com/tongduychuong/revanced-extended/r
 
 [ReVanced Team](https://github.com/revanced) for [MicroG](https://github.com/ReVanced/GmsCore/releases).
 
-[inotia00](https://github.com/anddea) for [revanced-extended patches](https://github.com/anddea/revanced-patches).
+[anddea](https://github.com/anddea) for [revanced-extended patches](https://github.com/anddea/revanced-patches).
 
 [Gnad Gnaoh](https://github.com/gnadgnaoh) for helping me figure some stuff out.
