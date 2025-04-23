@@ -1,6 +1,6 @@
 {
-  "version": "v20.03.43 (patches: dev.9)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/tongduychuong/revanced-extended/releases/download/3/youtube-revanced-extended-magisk-v20.03.43-all.zip",
+  "version": "v20.16.38 (patches: 5.6.2)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/tongduychuong/revanced-extended/releases/download/4/youtube-revanced-extended-magisk-v20.16.38-all.zip",
   "changelog": "https://raw.githubusercontent.com/tongduychuong/revanced-extended/update/build.md"
 }
