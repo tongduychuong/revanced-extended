@@ -14,7 +14,7 @@ build-mode = "both"
 excluded-patches = ""                                                 
 included-patches = "" 
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx.tdc' "
-version = "latest"                                                      
+version = "20.03.43"                                                      
 exclusive-patches = false                                             
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "yt-rvx"
