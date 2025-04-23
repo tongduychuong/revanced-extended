@@ -17,10 +17,7 @@ jobs:
         with:
           fetch-depth: 0
           submodules: true
-      - name: delete tags
-        uses: fabriziocacicia/delete-tags-without-release-action@v0.1.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          
       - name: Update config
         if: ${{ inputs.from_ci }}
         run: |
