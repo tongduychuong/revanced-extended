@@ -1,6 +1,6 @@
 Music (arm64-v8a): 8.05.51  
 Music (arm-v7a): 8.05.51  
-YouTube: 20.16.38  
+YouTube: 20.03.43  
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music.  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.  
