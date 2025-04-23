@@ -1,6 +1,6 @@
 enable-magisk-update = false   # set this to false if you do not want to receive updates for the module in magisk app
-# patches-source = "anddea/revanced-patches"
-patches-source = "inotia00/revanced-patches"
+patches-source = "anddea/revanced-patches"
+#patches-source = "inotia00/revanced-patches"
 rv-brand = "ReVanced eXtended"
 patches-version = "dev" # 'latest', 'dev', or a version number. default: "latest"
 parallel-jobs = 1
@@ -15,7 +15,7 @@ build-mode = "both"
 excluded-patches = ""                                                 
 included-patches = "" 
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx.tdc' "
-version = "latest"                                                      
+version = "20.10.40"                                                      
 exclusive-patches = false                                             
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "yt-rvx"
