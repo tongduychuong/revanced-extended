@@ -1,6 +1,7 @@
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
-patches-source = "inotia00/revanced-patches"
+patches-source = "anddea/revanced-patches"
 rv-brand = "ReVanced eXtended"
+patches-version = "dev" # 'latest', 'dev', or a version number. default: "latest"
 parallel-jobs = 1
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
@@ -12,7 +13,7 @@ parallel-jobs = 1
 build-mode = "both"                                                   
 excluded-patches = ""                                                 
 included-patches = "" 
-patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx.noname.exe' "
+patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx.tdc' "
 version = "auto"                                                      
 exclusive-patches = false                                             
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
@@ -24,7 +25,7 @@ build-mode = "both"
 app-name = "YouTube-Music"
 excluded-patches = ""
 included-patches = ""
-patcher-args = " -e 'GmsCore support' -OpackageNameYouTubeMusic='ytm.rvx.noname.exe' "
+patcher-args = " -e 'GmsCore support' -OpackageNameYouTubeMusic='ytm.rvx.tdc' "
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 module-prop-name = "ytm-rvx"
