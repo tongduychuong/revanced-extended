@@ -16,7 +16,7 @@ build-mode = "apk"
 excluded-patches = "'Hide player buttons'"                                                 
 included-patches = "" 
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx.tdc' "
-version = "20.20.41"                                                      
+version = "20.21.37"                                                      
 exclusive-patches = false                                             
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "yt-rvx"
