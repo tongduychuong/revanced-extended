@@ -114,10 +114,8 @@ jobs:
           keep_minimum_runs: 3
 
       - name: Remove old Releases
-        uses: dev-drprasad/delete-older-releases@v0.1.0
-        if: env.UPLOAD_RELEASE == 'true' && !cancelled()
+        uses: freenet-actions/delete-old-releases@v1
         with:
-          keep_latest: 10
-          delete_tags: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          keep-latest-releases: 10
+          delete-tags: true
+          token: '${{ github.token }}'
