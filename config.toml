@@ -1,5 +1,5 @@
 enable-magisk-update = false   # set this to false if you do not want to receive updates for the module in magisk app
-patches-source = "anddea/revanced-patches"
+patches-source = "inotia00/revanced-patches"
 remove-rv-integrations-checks = true
 #patches-source = "inotia00/revanced-patches"
 rv-brand = "ReVanced eXtended"
